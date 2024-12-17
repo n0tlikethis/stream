@@ -1,6 +1,12 @@
 <h3 align="center">Praktikum Flutter - Stream</h3>
 <p align="center">Dani Daneswara | 362358302048</p>
 
+#### Branch
+
+- **[main](https://github.com/n0tlikethis/stream/tree/main)**: Soal 1-11
+- **[streambuilder](https://github.com/n0tlikethis/stream/tree/streambuilder)**: Soal 12
+- **[bloc_random](https://github.com/n0tlikethis/stream/tree/bloc_random)**: Soal 13
+
 #### Hasil
 <table>
   <tr>
