@@ -9,5 +9,9 @@
   </tr><tr>
     <td><img src="images/4.gif"></td>
     <td><img src="images/6.gif"></td>
+  </tr><tr>
+    <th align="center">Soal 8</th>
+  </tr><tr>
+    <td><img src="images/8.gif"></td>
   </tr>
 </table>
