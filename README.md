@@ -5,7 +5,9 @@
 <table>
   <tr>
     <th align="center">Soal 4</th>
+    <th align="center">Soal 6</th>
   </tr><tr>
     <td><img src="images/4.gif"></td>
+    <td><img src="images/6.gif"></td>
   </tr>
 </table>
