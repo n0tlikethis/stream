@@ -11,7 +11,9 @@
     <td><img src="images/6.gif"></td>
   </tr><tr>
     <th align="center">Soal 8</th>
+    <th align="center">Soal 9</th>
   </tr><tr>
     <td><img src="images/8.gif"></td>
+    <td><img src="images/9.gif"></td>
   </tr>
 </table>
